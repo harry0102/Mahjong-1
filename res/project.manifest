@@ -1,0 +1,10 @@
+{
+    "packageUrl": "http://xdsfoo.gicp.net:8086/update",
+    "remoteManifestUrl": "http://xdsfoo.gicp.net:8086/update/project.manifest",
+    "remoteVersionUrl": "http://xdsfoo.gicp.net:8086/update/version.manifest",
+    "version": "1.0.0",
+    "groupVersions": {
+        "1": "1.0.0"
+    },
+    "engineVersion": "3.12"
+}
